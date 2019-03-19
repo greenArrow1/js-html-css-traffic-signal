@@ -1,0 +1,27 @@
+h1, h2 {
+  font-family: Lato;
+}
+#red{
+  height:50px;
+  width:50px;
+  border: 1px solid grey;
+  border-radius: 50px 50px 50px 50px;
+}
+#yellow{
+  height:50px;
+  width:50px;
+  border: 1px solid grey;
+  border-radius:50px 50px 50px 50px;
+}
+#green{
+  height:50px;
+  width:50px;
+  border: 1px solid grey;
+  border-radius: 50px 50px 50px 50px;
+}
+.light{
+  height:100px;
+  width: 10px;
+  border:1px solid grey;
+  padding-left:10px
+}
